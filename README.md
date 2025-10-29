@@ -17,13 +17,13 @@ Each script includes a description of the variables available in the dataset.
 
 The R script provided was developed to analyse the experimental dataset assessing the combined effects of female–female competition and fluctuating thermal stress on summer diapause in the progeny of the cereal aphid parasitoid Aphidius ervi. It includes data preparation, computation of diapause, mortality and emergence rates, as well as statistical modelling and graphical visualization of the results. The script is fully reproducible and directly linked to the dataset archived on Zenodo, allowing users to explore how climatic warming and acute heat stress affect parasitoid life-history strategies under controlled laboratory conditions.
 
-Related dataset :
+Related dataset : Effects of simulated warming and heat stress on the incidence of summer diapause in the progeny of females having experienced competition - DOI : https://doi.org/10.5281/zenodo.17478730
 
-3) IRPGRADIENTS_Summer_Diapause_Field_Survey_2023_LJ_V5
+2) IRPGRADIENTS_Summer_Diapause_Field_Survey_2023_LJ_V5
    
 This dataset contains the field data collected in 2022 and 2023 to assess summer diapause incidence in cereal aphid parasitoids along a longitudinal climatic gradient across Europe, from western France to the Czech Republic (~1200 km). Mummies parasitizing cereal aphids were sampled in wheat fields at multiple sites during late spring, and subsequently reared under laboratory conditions to determine diapause incidence, adult emergence rates, and mortality.
 
-Related dataset : Summer diapause in cereal aphid parasitoids: a field survey along a longitudinal climatic gradient across Europe in 2022 and 2023 -  DOI 10.5281/zenodo.17473608.
+Related dataset : Summer diapause in cereal aphid parasitoids: a field survey along a longitudinal climatic gradient across Europe in 2022 and 2023 -  DOI : 10.5281/zenodo.17473608.
 
 3) IRPGRADIENTS_Summer_Diapause_Biot_Abiot_2023_LJ
 
