@@ -29,4 +29,4 @@ Related dataset : Summer diapause in cereal aphid parasitoids: a field survey al
 
 Additional ecological variables were recorded at each field site, including aphid infestation levels, species abundances, parasitism and hyperparasitism rates but also climatic indexes. This script describes the climatic gradient and evaluates the direct and indirect effects of climate and biotic parameters on the incidence of summer diapause in aphid parasitoids. 
 
-Related dataset :
+Related dataset : Effect of climatic and biotic factors on summer diapause incidence along a geographical gradient over two consecutive years - DOI : https://doi.org/10.5281/zenodo.17479038
