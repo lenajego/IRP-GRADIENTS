@@ -84,7 +84,9 @@ library(gridExtra)
 # The dataset relating to the laboratory experiment will be available on Zenodo from May 4, 2027:
 
 # Define the file access path
-file_access_path <- "E:/PhD GRADIENT/Summer_Diapause/GCB/Zenodo_DataSet/Summer_Diapause_Lab_Experiment_2023_LJ_IRPGRADIENTS.csv"
+    # The dataset used for the analyses presented in this repository is publicly available on Zenodo "IRPGRADIENTS_Summer_Diapause_Lab_Experiment_2023_LJ"
+
+file_access_path <- # to complete 
 
 # Import dataset
 Protocol <- read.csv(
@@ -315,5 +317,6 @@ overdispersion
 Anova(mod1) 
 Diapause_country_season <- lsmeans(mod1,~ Condition|variable)
 contrast(Diapause_country_season, "pairwise") 
+
 
 
