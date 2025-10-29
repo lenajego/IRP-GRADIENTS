@@ -128,7 +128,7 @@ summary(Identification)
       # M_dirhodum: for Metopolophium dirhodum 
       # R_padi: for Rhopalosiphum padi 
       # S_avenae: for Sitobion avenae
-# NA: if the mummy was to destroyed and the aphid species not identifiable
+      # NA: if the mummy was to destroyed and the aphid species not identifiable
 # mummy_color: correspond to the mummy color which could help to identify some parasitoid species (value: glody, brown, black, light and praon which is not a color but a morphological criteria helping to identify parasitoid species)
 # emerging_organism: indicate if the emerging organism is a primary parasitoid (PP) or an hyperparasitoid (HY). If dead  or diapausing the value is NA
 # emerging_parasitoid_species: details the name of the primary paraistoid emerged.
@@ -433,5 +433,6 @@ overdispersion # 5.64
 Anova(glm_dead) #effet country & year 
 Dead_comp <- lsmeans(glm_dead,~ country|year)
 contrast(Dead_comp, "pairwise") ### problem : Df = INF
+
 
 
