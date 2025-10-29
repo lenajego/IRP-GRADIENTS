@@ -1,9 +1,16 @@
 # IRP-GRADIENTS
 
-Dataset availability
+# About this repository
+The R scripts hosted in this repository were developed as part of my PhD research carried out within the IRP Gradients project. They were used to analyse the effects of climatic variability and biotic interactions on cereal aphids, their parasitoids and hyperparasitoids along longitudinal climatic gradients in Europe and China. These scripts support data processing, statistical analyses and visualization performed throughout my thesis work.
 
-The dataset used for the analyses presented in this repository is publicly available on Zenodo.
+# PhD context
+PhD title: Evolution of a cereal aphid guild and their natural enemies along a longitudinal gradient in Europe: influences of climate and landscape, and consequences on BYDV epidemiology (IRP Gradients)
+Supervisors: Joan van Baaren & Cécile Le Lann (Ecosystèmes Biodiversité Evolution, UMR 6553 CNRS – Rennes, France), Chun-Sen Ma & Gang Ma (Chinese Academy of Agricultural Sciences – Beijing, China)
 
-It includes all laboratory experimental results used to assess the combined effects of female–female competition and fluctuating thermal stress on the incidence of summer diapause in the parasitoid Aphidius ervi. Parasitoids originated from western France and were reared on their aphid host Sitobion avenae under controlled conditions. During a 30-hour oviposition period, females were exposed to three different fluctuating temperature regimes, representative of current and future climate scenarios, to evaluate resulting diapause incidence, mortality, and adult emergence rates in their offspring.
+# PhD summary
+Environmental stressors act as ecological filters shaping individual responses, population dynamics and trophic interactions. In the context of climate change, their intensification may alter the functioning of agricultural ecosystems. My thesis aimed to understand how biotic and abiotic factors influence the composition of the cereal aphid guild, the structure of the aphid–parasitoid–hyperparasitoid network, and the epidemiology of Barley Yellow Dwarf Virus (BYDV). Along climatic gradients in Europe and China, we showed that climate — particularly short-term extreme events (heat waves, severe frosts) — better explains population dynamics than other factors. These extremes modify the phenology and reproductive strategies of aphids and parasitoids, with cascading effects on guild structure, biocontrol efficiency and virus transmission.
 
-The full dataset can be accessed and cited via Zenodo : IRPGRADIENTS_Summer_Diapause_Lab_Experiment_2023_LJ
+# List and description of available scripts and associated databases 
+
+1) IRPGRADIENTS_Summer_Diapause_Lab_Experiment_2023_LJ
+
