@@ -19,7 +19,7 @@ The R script provided was developed to analyse the experimental dataset assessin
 
 Related dataset :
 
-3) IRPGRADIENTS_Summer_Diapause_Field_Survey_2023_LJ
+3) IRPGRADIENTS_Summer_Diapause_Field_Survey_2023_LJ_V5
    
 This dataset contains the field data collected in 2022 and 2023 to assess summer diapause incidence in cereal aphid parasitoids along a longitudinal climatic gradient across Europe, from western France to the Czech Republic (~1200 km). Mummies parasitizing cereal aphids were sampled in wheat fields at multiple sites during late spring, and subsequently reared under laboratory conditions to determine diapause incidence, adult emergence rates, and mortality.
 
