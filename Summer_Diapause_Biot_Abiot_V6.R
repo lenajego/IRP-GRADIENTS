@@ -82,7 +82,7 @@ library(gridExtra)
 
 # Import dataset ####
 # Define the file access path 
-file_access_path2 <- "E:/PhD GRADIENT/Summer_Diapause/GCB/Definitif/IRPGRADIENTS_Summer_Diapause_Biotic_Abiotic_2022-2023_LJ.csv"
+file_access_path2 <- "Summer_Diapause_Biotic_Abiotic_2022-2023.csv"
 
 Biot_Abiot <- read.csv(
   file = file_access_path2,
@@ -1168,4 +1168,5 @@ for (x_factor in x_list) {
                                          rho = corr_result$estimate, p_value = corr_result$p.value))
   }
 }
+
 
