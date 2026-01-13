@@ -83,7 +83,7 @@ library(gridExtra)
 
 
 # Define the file access path
-file_access_path1 <- # to complete with the file name Summer_diapaue_Identifications
+file_access_path1 <- # to complete with the file name Summer_diapaue_Field survey
 
 # Import dataset
 Identification <- read.csv(
@@ -427,6 +427,7 @@ overdispersion # 5.64
 Anova(glm_dead) #effet country & year 
 Dead_comp <- lsmeans(glm_dead,~ country|year)
 contrast(Dead_comp, "pairwise") ### problem : Df = INF
+
 
 
 
